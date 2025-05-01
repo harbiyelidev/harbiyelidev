@@ -7,7 +7,7 @@ local No1 = {
   experience = 5,
   code = {"Javascript", "HTML", "CSS", "Lua"},
   frameworks = {"Vue.js", "React.js", "Next.js"},
-  tools = {"Vite", "jQuery", "Node.js", "Yarn", "Bun", "Yarn"},
+  tools = {"Vite", "jQuery", "Node.js", "Yarn", "Bun"},
   storage = {"MySQL", "MongoDB", "Supabase"}
 }
 ```
