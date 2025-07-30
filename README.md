@@ -5,16 +5,17 @@ local No1 = {
   age = 19,
   pronouns = "he" | "him",
   experience = 5,
-  code = {"Javascript", "HTML", "CSS", "Lua"},
-  frameworks = {"Vue.js", "React.js", "Next.js"},
+  code = {"Javascript", "Typecript", "HTML", "CSS", "Lua"},
+  frameworks = {"Vue.js", "React.js", "Next.js", "Svelte"},
   tools = {"Vite", "jQuery", "Node.js", "Yarn", "Bun"},
-  storage = {"MySQL", "MongoDB", "Supabase"}
+  storage = {"MySQL", "MongoDB"}
 }
 ```
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -32,7 +33,6 @@ local No1 = {
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
