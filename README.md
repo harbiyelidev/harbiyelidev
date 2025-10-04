@@ -42,4 +42,4 @@ local No1 = {
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harbiyelidev&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=harbiyelidev&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
